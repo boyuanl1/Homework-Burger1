@@ -1,0 +1,36 @@
+body {
+    background-image: url("http://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/26/1/FNM_060110-Insert-025_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1371591468743.jpeg");
+    background-color: #cccccc;
+}
+
+h1 {
+    margin: auto;
+    width: 189px;
+}
+
+ul {
+    width: 45%;
+    float: left;
+}
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+  opacity: 0.8;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+#new {
+    clear: both;
+    margin: auto;
+    width: 40%;
+    background: #faebd7;
+    opacity: 0.8;
+}
